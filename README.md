@@ -86,5 +86,13 @@ Supervisor - Jack & Joan's Lingerie
 Owner - Jack & Joan's Lingerie
 **Contact No:** +27 (83) 731-6487
 
+---
+
+## Mock Interview Video
+<video width = "600" controls>
+  <source src= "mock-interview.mp4" type = "video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
