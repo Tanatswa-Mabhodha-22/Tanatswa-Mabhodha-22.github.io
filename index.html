@@ -52,11 +52,6 @@
       margin: 4px 0;
     }
 
-    .job-title, .school-title {
-      font-weight: bold;
-      margin-top: 15px;
-    }
-
     .date {
       font-style: italic;
       color: #666;
@@ -74,21 +69,41 @@
       min-width: 250px;
     }
 
-    video {
-      width: 100%;
-      max-width: 700px;
-      border-radius: 10px;
-      margin-top: 15px;
-    }
-
     .section {
       margin-bottom: 25px;
+    }
+
+    .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+      margin-top: 15px;
+      border-radius: 10px;
+    }
+
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+      border-radius: 10px;
     }
 
     hr {
       border: none;
       border-top: 1px solid #ddd;
       margin: 25px 0;
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        margin: 20px;
+        padding: 25px;
+      }
     }
   </style>
 </head>
@@ -108,11 +123,11 @@
 
     <h2>Career Objective</h2>
     <p>
-      Final-year <strong>Diploma in Applications Development student (2024 - 2026)</strong>
+      Diploma in Applications Development student (2024 - 2026)
       with strong foundations in Java programming, database design, networking,
       Artificial Intelligence, and cybersecurity fundamentals. Seeking a Software
       Development or IT internship where I can apply technical knowledge in a practical
-      environment while contributing to secure efficient systems.
+      environment while contributing to secure and efficient systems.
     </p>
 
     <h2>Education</h2>
@@ -208,19 +223,17 @@
     </div>
 
     <h2>Mock Interview Video</h2>
-<p>Watch my mock interview video below:</p>
+    <p>Watch my mock interview video below:</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-top: 15px;">
-  <iframe
-    src="https://www.youtube.com/embed/_A2Ll4-iYqU?si=w6__UenmwOdGHWWn"
-    title="Mock Interview Video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px;">
-  </iframe>
-</div>
+    <div class="video-container">
+      <iframe
+        src="https://www.youtube.com/embed/_A2Ll4-iYqU?si=w6__UenmwOdGHWWn"
+        title="Mock Interview Video"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen>
+      </iframe>
+    </div>
 
   </div>
 
