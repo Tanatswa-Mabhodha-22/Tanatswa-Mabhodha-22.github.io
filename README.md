@@ -123,7 +123,7 @@ Owner - Jack & Joan's Lingerie
 
 **Situation:** Once my CV and video were ready, I had to deploy my portfolio as a live website using GitHub Pages so it could be publicly accessed and submitted for assessment.
 
-**Task:** I needed to configure my repository settings correctly so that the portfolio would go live at my username.github.io URL with everything displaying properly.
+**Task:** I needed to configure my repository settings correctly so that the portfolio would go live at my Tanatswa-Mabhodha-22.github.io URL with everything displaying properly.
 
 **Action:** I worked through the steps in the subject guide, went into my repository settings, found the Pages section, and selected the right branch. It did not go live straight away, which was a bit frustrating, but I figured out that GitHub Pages just takes some time to build. I waited, kept checking, and eventually everything loaded correctly.
 
