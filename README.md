@@ -119,7 +119,7 @@ Owner - Jack & Joan's Lingerie
 
 **Result:** I got it done and submitted it. Looking back, it was uncomfortable but worth it. I realised that being in front of a camera is something you only get better at by doing it, and this was a good first step in preparing myself for real interviews and my WIL placement.
 
-### Reflection 3 — GitHub Pages Deployment
+### Reflection 3: GitHub Pages Deployment
 
 **Situation:** Once my CV and video were ready, I had to deploy my portfolio as a live website using GitHub Pages so it could be publicly accessed and submitted for assessment.
 
