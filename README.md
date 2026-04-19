@@ -128,3 +128,5 @@ Owner - Jack & Joan's Lingerie
 **Action:** I worked through the steps in the subject guide, went into my repository settings, found the Pages section, and selected the right branch. It did not go live straight away, which was a bit frustrating, but I figured out that GitHub Pages just takes some time to build. I waited, kept checking, and eventually everything loaded correctly.
 
 **Result:** My portfolio went live successfully. It took some patience, but finishing it gave me a better understanding of how deployment works in practice. It is something I will definitely use again in future projects.
+
+---
