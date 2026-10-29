@@ -112,7 +112,7 @@ I learned that a user story is only useful if its tasks are small and specific e
 
 ### Evidence
 ![Trello Product Backlog](images/Productbacklog(1).png)
-![Product Backlog document](images/product-backlog-doc.png)
+![Product Backlog document](images/Screenshot(14).png)
 
 [Download the Product Backlog (PDF)](docs/NavigSA_Product_Backlog.pdf)
 
