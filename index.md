@@ -1,5 +1,5 @@
 # Tanatswa Geraldine Mabhodha 
-**WIL Portfolio
+**WIL Portfolio **
 
 **Assessment submission: Project Presentation 3.** My Agile portfolio is directly below. My CV and interview video from earlier are at the bottom of this page.
 
@@ -24,7 +24,7 @@
 
 ### Introduction
 
-This section of my portfolio shows how our team ran the NavigSA project using Agile and Scrum. The five artefacts below follow the order the work happened. The **Team Charter** set up who we were and how we would work. The **User Stories** turned our ideas into customer-focused work. The **Product Backlog** prioritised that work. The **Sprint Backlog** recorded how we delivered it. The **Agile Logbook** captured our daily progress and problems. Each artefact has a reflection on what it shows and what I learned.
+This section of my portfolio shows how I participated in running the NavigSA project using Agile and Scrum. The five artefacts below follow the order the work happened. The **Team Charter** set up who we were and how we would work. The **User Stories** turned our ideas into customer-focused work. The **Product Backlog** prioritised that work. The **Sprint Backlog** recorded how we delivered it. The **Agile Logbook** captured our daily progress and problems. Each artefact has a reflection on what it shows and what I learned.
 
 ---
 
@@ -42,7 +42,31 @@ This section of my portfolio shows how our team ran the NavigSA project using Ag
 [Download the full Team Charters (PDF)](docs/Agile_Team_Charter.pdf)
 
 ### Reflection
-The charter gave our team a shared starting point. Each of us knew what we were responsible for, how we would communicate, and which values we were holding ourselves to. As [YOUR ROLE], I [what you were responsible for]. What worked well was agreeing on communication channels early, because daily updates went on WhatsApp, decisions were made in meetings, and tasks were tracked on Trello. What I found hard was that a charter only matters if the team keeps using it. When tasks waited on confirmation from others, our transparency and accountability values were tested. Next time I would review the charter at the start of each sprint and add a specific due date for every task. This charter is the base for the rest of the portfolio, because the roles and communication plan shaped how we wrote user stories, planned sprints and held stand-ups.
+### Situation
+At the start of the project, four students with different strengths had to work as one team on a business concept with a fixed deadline. We were building a service for people who are already struggling with confusing processes, which meant our own way of working needed to be clear. Without agreed roles, communication rules and expectations, we risked duplicated work, missed deadlines and disagreements that nobody knew how to resolve. Several of us were also balancing other modules, so availability was uneven.
+
+### Task
+My task was to contribute to the team charter and to define my own role as the Researcher in writing. The charter had to work as a "social contract" for the team: shared purpose, values, working agreements and sprint structure. My individual charter had to explain clearly how my research would keep the team's decisions based on accurate data and real user needs instead of assumptions.
+
+### Action
+I contributed to the team charter, which covers the team's purpose and vision, roles and responsibilities, core values (collaboration, respect, transparency, accountability, excellence and empathy), the Agile principles we follow, a communication plan, SMART goals, milestones, working agreements and our sprint structure.
+
+I then wrote my own Researcher charter. In it I:
+- Defined my role as making sure all decisions, features and solutions are based on accurate data and real user needs.
+- Listed my key responsibilities: conducting primary research through interviews with international students, analysing the qualitative data for patterns, researching SAQA evaluation requirements, investigating university application procedures in South Africa, and examining study visa processes and documentation requirements.
+- Committed to identifying risks such as fraud, document errors and delays, supporting feature definition with research findings, and making sure multilingual needs were considered.
+- Recorded the research activities I had completed: the problem statement, interviews and analysis, the key pain points of language barriers and lack of guidance, the SAQA and university process research, input into the user journey, and the risks facing international students.
+- Identified the risks to my own work and how to reduce them: limited access to participants (solved by using online communities), inaccurate information (solved by relying on official sources) and language barriers (solved by using simplified communication).
+- Set success criteria for the research role: clear findings, accurate and relevant insights, alignment between system features and user needs, and a visible contribution to the final solution.
+
+### Result
+The team charter gave us practical rules that we actually used. These included meetings scheduled at least 48 hours ahead, agendas shared before meetings, summaries within 24 hours, decisions logged in a shared document, and a rule that no section goes to the lecturer until every member has reviewed and approved it. My Researcher charter gave the team a defined source of evidence for the business concept, the services and the platform features. Because I had named the risks to my own work in advance, I had a plan when access to participants was limited.
+
+### What I learned
+I learned that a charter only has value if the team treats it as a living reference and not a document written once and forgotten. Writing down my own role also forced me to be specific about what "doing research" means: not just collecting information, but turning it into something the design and development team can act on. If I did this again, I would ask the team to revisit the charter at the end of each month to check whether our agreements still match how we really work.
+
+---
+
 
 ---
 
@@ -58,7 +82,31 @@ The charter gave our team a shared starting point. Each of us knew what we were 
 [Download the Product Backlog with all user stories and tasks (PDF)](docs/NavigSA_Product_Backlog.pdf)
 
 ### Reflection
-At first our backlog was a list of things we needed to do. After the lecturer's feedback on 28 July we converted it into user stories, each with a user, a need and a reason. This changed how we thought about the work, because we started asking who it was for and why it mattered, not only what to build. Breaking each story into tasks and assigning names made progress visible on the Trello board. The hardest part was writing stories that were small enough to finish and clear enough to test. Some stories, such as *Learn Through Educational Content*, were still very large. Next time I would split large stories earlier and agree on what "done" means before a story enters a sprint.
+### Situation
+Once the business concept was defined, we had a big idea but no structured way to turn it into deliverable work. NavigSA involves research, design, development, testing, deployment, marketing, compliance and academic documentation. Without a clear breakdown, it would have been easy to lose track of who needed what and why. There was also a risk that we would build features because they seemed interesting rather than because international students needed them.
+
+### Task
+My task was to help write user stories in the "As a [role], I want [goal], so that [benefit]" format and break each one into small, trackable tasks. I focused especially on the research and business-concept stories, because those had to connect every later decision back to real user needs.
+
+### Action
+I helped write and refine user stories from several points of view: international students, service providers, administrators, the project team and our project supervisor. For example, one story reads that an international student wants NavigSA to use real feedback from students so that the services address actual pain points. Another covers a French or Portuguese-speaking student who wants information in their preferred language so that they can understand the services.
+
+I then broke each story into tasks sized at about one working day. For the Community and Market Research story, I took ownership of tasks such as:
+- Identifying and defining the target online community of international students.
+- Researching the demographics and platform habits of international students.
+- Identifying who is affected by the problem and what they have in common.
+- Identifying how often the problem occurs, including seasonal recurrence.
+- Explaining why the problem is worth solving.
+- Documenting and analysing interview findings and pain points.
+
+I also took on other tasks that matched my skills, including compiling the reference list for the business concept deliverable, creating the database schema for students, providers, services and testimonials, sharing the free multilingual SAQA checklist in targeted Facebook groups for the MVP test, developing multilingual guides, and monitoring SAQA, Home Affairs and university updates.
+
+### Result
+The team ended up with 36 user stories and 276 tasks, each with a purpose, an outcome and an owner. Writing from the user's perspective kept us honest about whom we were building for, and the "so that" part of each story forced us to state the benefit, which made it easier to decide what mattered most. The stories also gave our sprint cards a clear purpose.
+
+### What I learned
+I learned that a user story is only useful if its tasks are small and specific enough to be finished and checked off. Vague tasks stay "in progress" forever. I also learned that writing for the user changes how you think: it moved me from asking "what can we build?" to "what does the student need?" If I did this again, I would test each story with a real student or provider before finalising it, not only with the team.
+
 
 ---
 
@@ -74,7 +122,27 @@ At first our backlog was a list of things we needed to do. After the lecturer's 
 [Download the Product Backlog (PDF)](docs/NavigSA_Product_Backlog.pdf)
 
 ### Reflection
-The Product Backlog was the single place where the whole project was planned. Prioritising it showed me that you cannot do everything at once. Research and concept definition had to come before design, and design before development. The backlog also changed as we learned. Our original plan used Spring Boot, React, MySQL and Railway, but the finished website was built on Vercel with Supabase. This showed me that a backlog is a living document and not a fixed contract. A challenge was getting everyone to agree on priorities, which our logbook shows we had to confirm as a team before planning could continue. In future I would review the backlog more often so it always matches what we are actually doing.
+### Situation
+With dozens of stories and hundreds of tasks, the team needed one ordered list of everything NavigSA had to deliver. The project also changed as it progressed. The technology stack in our original plan was adjusted during implementation, and the completed website was deployed on Vercel and uses Supabase. We also expanded the original 15 core work streams with extra customer-facing and supporting stories, which created a risk of duplicate or inconsistent story numbers.
+
+### Task
+My task was to draft and maintain the Product Backlog as the single source of truth for the project. It had to show every user story, its tasks, who owned each task, which part of the backlog it belonged to, and where it was worked on in the Sprint Backlog.
+
+### Action
+I drafted the first Product Backlog items from the community selection and problem identification research and recorded them on the Trello board. As the project grew, I organised the backlog into two parts:
+- **Part A:** the original 15 core work streams, from Community and Market Research through to Final Academic Documentation, with task ownership agreed by the team.
+- **Part B:** the expanded customer-facing and supporting stories (US-16 to US-36), covering the student dashboard, application tracking, bookings, provider registration and verification, administrator tools, reviews, testimonials, multilingual content, notifications, educational content, marketing, partnerships, data protection, testing, launch, presentations, documentation, the brand guide and monthly reporting.
+
+I renumbered the Part B stories so that every ID was unique and continued the sequence from US-16. I added a "Sprint coverage" column that links each story to the sprints where it was worked on, and I added a note explaining the change in technology stack so the document remained accurate. I kept updating the backlog as the project moved forward, most recently on 27 October 2026.
+
+### Result
+The final Product Backlog is a complete, ordered record of the project: 36 user stories and 276 tasks, each sized at about one working day. Every task can be traced from its story to the sprint where it was done. The backlog also openly shows which stories were not worked on in a sprint, so the real scope and limits of the project are visible and not hidden. This was useful for presentations, because anyone could see what was delivered and what remains for future work.
+
+### What I learned
+I learned that a backlog is a living document, and that keeping it accurate takes regular effort. The technology change showed me that plans change in real projects, and that recording the change honestly is better than pretending the original plan was followed. I also learned the value of unique, consistent IDs: when numbering was inconsistent, tracing a task became confusing. If I did this again, I would update the sprint coverage column at the end of every sprint instead of leaving it until later.
+
+---
+
 
 ---
 
@@ -90,7 +158,32 @@ The Product Backlog was the single place where the whole project was planned. Pr
 [Download the Sprint Backlog (PDF)](docs/NavigSA_Sprint_Backlog.pdf)
 
 ### Reflection
-The Sprint Backlog turned the Product Backlog into a day-by-day plan. Linking every sprint to a backlog area gave us traceability, because we could see which part of the project each day's work supported. It also showed the project moving in order: concept, research, design, architecture, backend, frontend, testing and launch. One thing I learned is that the record is only as useful as it is accurate. Our document notes that some middle sprints are summarised from the agreed backlog because individual completion dates were not recorded separately. Next time I would update the sprint board every day, so the record is complete and nothing has to be reconstructed later.
+### Situation
+The Product Backlog told us what had to be done, but the team needed a day-by-day plan to actually do it. The project ran from 14 July to 30 October 2026 on working days (Tuesday to Friday), so work had to be divided into short sprints with realistic start and due dates. Different team members were responsible for different areas, and our supervisor needed to be able to see what was planned and what was complete.
+
+### Task
+My task was to organise the Sprint Backlog on our Trello board so that every sprint card was linked to a user story, had a clear description, start and due dates, assigned members and a checklist of tasks. I needed to keep the board structured and easy for both the team and the supervisor to follow.
+
+### Action
+I created and organised the sprint cards. Each card contains a user story, a description, start and due dates, the assigned team members, and a checklist of tasks that we ticked off as they were completed. The cards cover the whole project:
+- **Sprints 1, 2 and 4:** business concept definition, customer profile (who, what, where and when) and the value proposition with trust pillars.
+- **Sprints 5 to 7:** community and market research, including identifying target customers, structured interviews, and confirming problem urgency and willingness to pay.
+- **Sprint 8:** updating the presentation with the market research findings.
+- **Sprints 9 to 13:** platform design (UI/UX), including wireframes, branding, the student registration and verification flow, the multilingual content layout, and presenting the website prototype.
+- **Sprints 14 and 15:** Agile project documentation and the NavigSA Brand Guide.
+- **Sprint 16:** the July monthly report and register, with the report attached to the card as evidence.
+- **Sprints 41 to 52:** testing and quality assurance, including user acceptance testing, recording and fixing defects, and retesting, followed by protecting student information through privacy, terms, refund and cookie information, authentication, encryption, secure documents, database security and HTTPS.
+
+In Sprint 14, I worked on the sprint boards, organised the sprint backlog according to the user stories, and organised the sprint cards and sprint structure. I also attached the NavigSA board image to the card as evidence.
+
+### Result
+The Sprint Backlog gave the team a clear, visible plan, and the completed checklists and green ticks on the cards show the work that was done. Linking each card to a user story kept every task tied to a real purpose, and the dates made deadlines clear. When I presented the Trello board and sprint boards in Sprint 15, the structure made it easy for the supervisor to follow how the project progressed from research through design to testing and compliance.
+
+### What I learned
+I learned that a sprint board only works when everyone keeps it up to date, and that a board nobody trusts is worse than no board. I also learned that realistic scoping matters: tasks sized at about a day are easier to complete and track than large tasks. If I did this again, I would agree on a shared rule at the start for when and how to update cards, so the board always matches reality, and I would add labels to separate research, design, development and documentation work.
+
+---
+
 
 ---
 
@@ -119,14 +212,46 @@ The Sprint Backlog turned the Product Backlog into a day-by-day plan. Linking ev
 [PDF](docs/Agile_logbook.pdf)
 
 ### Reflection
-The logbook made our progress and problems visible every day. The weekly entries show the project developing: presenting the business idea to Prima on 16 July, setting up Trello and drafting the backlog on 21 to 23 July, presenting the Figma prototype on 28 July, and finishing Sprint 1 planning on 31 July. The impediments section was the most useful part. The same problem kept appearing, which was waiting for team confirmation before work could be finalised. No class on 21 and 24 July also reduced our discussion time. Writing these down helped us see a pattern that we could then act on. On 23 July I also learned to cross-check the logbook against the Trello board so both records agree. Next time I would raise recurring blockers in the stand-up straight away and set deadlines for confirmations.
+### Situation
+Our supervisor needed to see not only what we produced but how we worked: what we did each day, what we planned next, and what got in the way. Agile also expects regular reflection and honest reporting of problems. During some weeks, normal teamwork was disrupted. In the week of 21 to 24 July, no class was held on 21 July, and no class was held on 24 July because the lecturer was ill. That reduced the time the team had to discuss and confirm work together.
+
+### Task
+My task was to help keep the Agile Logbook up to date. Each logbook records a task board with columns for Product Backlog, In Progress and Completed, a walkthrough answering four questions about the work, and daily entries answering the three standup questions: what did I complete since the last standup, what am I planning to complete before the next one, and what are my impediments.
+
+### Action
+I helped maintain the logbooks for the weeks I documented.
+
+**14 to 17 July:** The team held a meeting to plan the presentation, created the slides together (problem statement, proposed solution, target market and value proposition), rehearsed, presented the NavigSA business idea to our lecturer, and then held a sprint review. In that review we went through the feedback, updated the project plan and recorded outstanding tasks with owners.
+
+**21 to 24 July:** The team set up the NavigSA Trello board and column structure, drafted the first set of Product Backlog items from the problem identification research, reviewed card descriptions, and continued refining items independently on the day without class.
+
+For both weeks I recorded the impediments honestly, including the lost class time, limited team availability, and items that needed more detail before they could be assigned. I also cross-checked the logbook against the Trello board so that both records matched and told the same story.
+
+### Result
+The logbooks give a clear, dated record of how the project progressed and how the team responded to obstacles. Recording the blockers honestly made our planning more realistic: when classes did not happen, we kept working on the backlog independently and carried the confirmation of priorities forward to the next opportunity. The walkthrough questions also helped us confirm that nobody was working on anything that was not on the board.
+
+### What I learned
+I learned that short, regular entries are far more useful than long summaries written afterwards, because details and reasons are forgotten quickly. I also learned that reporting a problem is not the same as failing: naming an impediment is what lets a team respond to it. If I did this again, I would write the entries every day as work happens instead of catching up later, and I would add a short retrospective at the end of each week on what to change.
+
+---
 
 ---
 
 ## Overall Reflection
 
-Working through these five artefacts showed me that Agile is a way of working and not just a set of documents. The charter set expectations, user stories kept us focused on the customer, the Product Backlog set priorities, the Sprint Backlog tracked delivery, and the logbook exposed problems early. The biggest lesson was that these tools only work if the team keeps them up to date and acts on what they show. The project ended with a working NavigSA website deployed on Vercel, and I can now plan, track and reflect on a project using Scrum.
+## Overall Reflection: Connecting the Artefacts
 
+These five artefacts form one connected story of how NavigSA was planned and delivered.
+
+- The **Team Charter** set out how we would work together.
+- The **User Stories and Tasks** defined what students and providers actually need, written from their point of view.
+- The **Product Backlog** collected all of that work into one ordered, traceable list.
+- The **Sprint Backlog** scheduled the work day by day on Trello.
+- The **Agile Logbook** recorded what really happened, including the obstacles.
+
+As the Researcher, my main contribution was making sure the project stayed grounded in evidence from international students, and keeping our planning records organised and traceable. The research I did on SAQA, university and visa processes, language barriers and risks such as fraud and document errors flowed into the user stories, which flowed into the backlog and sprints, and finally into the design, testing and compliance work.
+
+This project taught me that research only has value when it is turned into clear, trackable work that a team can act on. It also taught me that Agile is as much about communication and honesty as it is about tools: the charter, backlog, boards and logbook all depend on the team telling the truth about progress. In future projects I will bring this approach with me: involve real users early, keep records up to date as I go, and treat plan changes as information to record and learn from.
 ---
 
 <a id="cv"></a>
