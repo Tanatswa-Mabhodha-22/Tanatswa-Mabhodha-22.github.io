@@ -68,7 +68,7 @@ At first our backlog was a list of things we needed to do. After the lecturer's 
 **What it is:** The prioritised list of everything NavigSA needed. It has 15 core backlog cards (for example Community and Market Research, Business Concept Definition, Platform Design, System Architecture, Website Development and Website Testing and Launch) plus the expanded set of user stories. The team reviewed and confirmed the priority order on 30 July 2026.
 
 ### Evidence
-![Trello Product Backlog](images/trello-product-backlog.png)
+![Trello Product Backlog](images/Productbacklog(1).png)
 ![Product Backlog document](images/product-backlog-doc.png)
 
 [Download the Product Backlog (PDF)](docs/NavigSA_Product_Backlog.pdf)
