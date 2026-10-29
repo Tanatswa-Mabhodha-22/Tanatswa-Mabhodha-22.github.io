@@ -38,6 +38,7 @@ The Agile Team Charter is a living, co-created agreement that sets out how our t
 [Download the full Team Charters (PDF)](docs/Agile_Team_Charter.pdf)
 
 ### Reflection
+
 ### Situation
 At the start of the project, four students with different strengths had to work as one team on a business concept with a fixed deadline. We were building a service for people who are already struggling with confusing processes, which meant our own way of working needed to be clear. Without agreed roles, communication rules and expectations, we risked duplicated work, missed deadlines and disagreements that nobody knew how to resolve. Several of us were also balancing other modules, so availability was uneven.
 
@@ -70,8 +71,8 @@ I learned that a charter only has value if the team treats it as a living refere
 **What it is:** Our work written as user stories ("As a..., I want..., so that...") with tasks underneath each one. After our lecturer's feedback on 28 July 2026, we rewrote our backlog items from the customer's perspective. Examples include *Book a NavigSA Service*, *Become a Verified Service Provider* and *Track Application Status*.
 
 ### Evidence
-![Trello user stories](images/trello-user-stories.png)
-![User stories and tasks](images/user-stories-tasks.png)
+![Trello user stories](images/Sprint(2).jpeg)
+![User stories and tasks](images/Sprint(1).jpeg)
 
 [Download the Product Backlog with all user stories and tasks (PDF)](docs/NavigSA_Product_Backlog.pdf)
 
