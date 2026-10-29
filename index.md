@@ -39,7 +39,7 @@ This section of my portfolio shows how our team ran the NavigSA project using Ag
 ![Team Charter: Designer](images/team-charter-designer.png)
 ![Team Charter: Editor](images/team-charter-editor.png)
 
-[Download the full Team Charters (PDF)](docs/NavigSA_Team_Charters.pdf)
+[Download the full Team Charters (PDF)](docs/Agile_Team_Charter.pdf)
 
 ### Reflection
 The charter gave our team a shared starting point. Each of us knew what we were responsible for, how we would communicate, and which values we were holding ourselves to. As [YOUR ROLE], I [what you were responsible for]. What worked well was agreeing on communication channels early, because daily updates went on WhatsApp, decisions were made in meetings, and tasks were tracked on Trello. What I found hard was that a charter only matters if the team keeps using it. When tasks waited on confirmation from others, our transparency and accountability values were tested. Next time I would review the charter at the start of each sprint and add a specific due date for every task. This charter is the base for the rest of the portfolio, because the roles and communication plan shaped how we wrote user stories, planned sprints and held stand-ups.
