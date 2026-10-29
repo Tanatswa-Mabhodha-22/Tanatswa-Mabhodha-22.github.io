@@ -34,35 +34,7 @@ This section of my portfolio shows how I participated in running the NavigSA pro
 ### What it is
 The Agile Team Charter is a living, co-created agreement that sets out how our team works together. It defines the team's shared purpose, values, working agreements and boundaries so that everyone knows what is expected of them and so that friction is reduced before it starts. Our team (Nolwazi Zulu, Witcha Francisco, Marc Kabala and I) completed one individual charter for each role: Team Leader, Researcher, Designer and Editor. Each charter explains what that person is responsible for and how their work supports the others.
 
-The charter covers the following areas:
-
-- **Team purpose and vision:** NavigSA exists to design and validate a business concept that helps international students from non-English-speaking countries navigate the SAQA evaluation, university application, study visa and accommodation processes in South Africa. Our vision is to be the most trusted navigator for these students, removing barriers of language, confusion and exploitation through affordable, multilingual, step-by-step guidance.
-- **Roles and responsibilities:** Each member's role is described in detail, including what they are responsible for and what they contributed to the team's deliverables.
-- **Team values and principles:** Collaboration, respect, transparency, accountability, excellence and empathy, together with the Agile principles we follow, such as individuals and interactions over processes and tools, working deliverables over comprehensive documentation, responding to change, and continuous improvement after each milestone.
-- **Communication plan:** WhatsApp for daily check-ins and quick updates, Microsoft Teams for sharing work and getting feedback, weekly in-person meetings for sprint planning and progress review, Google Docs for logging decisions, Trello for managing tasks, and email for formal communication with the lecturer. Meetings are scheduled at least 48 hours in advance, agendas are shared beforehand, and a meeting summary is shared within 24 hours.
-- **Decision making:** Routine decisions are made by majority agreement in the team chat. Major decisions, such as changing the business idea or the report structure, require a full team discussion, and the Team Leader has a casting vote in the event of a deadlock.
-- **SMART goals and milestones:** Specific, measurable and time-bound goals, such as completing eight problem validation interviews, defining the business idea and value proposition, completing the full report draft, and delivering the presentation on 13 March 2026. These were linked to seven milestones (M1 to M7) across the first weeks of the project.
-- **Working agreements:** All work is submitted to the shared folder at least 24 hours before the deadline, no section goes to the lecturer until every member has reviewed and approved it, members notify the team at least 48 hours in advance if they cannot complete a task, credit for work is acknowledged openly, conflicts are handled directly and then mediated by the Team Leader if unresolved, and we uphold academic integrity at all times.
-- **Sprint structure:** A lightweight Agile approach with sprints of about one week, each with a focus area and a key output, from team formation and community selection through to report compilation and submission.
-- **Team agreement and sign-off:** Each member confirms that they have read, understood and agreed to the charter.
-
-### What I contributed
-As the Researcher, I contributed to the shared parts of the charter and wrote my own individual Researcher charter.
-
-**My contribution to the team charter:** I took part in agreeing the team's purpose, values, communication plan, SMART goals, milestones, working agreements and sprint structure, and I signed off on the charter as a member who agreed to abide by it.
-
-**My individual Researcher charter:** I wrote this to define exactly how my role supports the project. It includes:
-
-- **Role overview:** I am responsible for making sure all decisions, features and solutions are based on accurate data and real user needs, and for turning what I learn about international students' challenges into insights the team can act on.
-- **Research purpose:** To provide reliable, evidence-based insights that guide the design and development of the NavigSA platform, so that the solution addresses real problems experienced by users.
-- **Key responsibilities:** Running primary research through interviews with international students and analysing the qualitative data to find patterns; researching SAQA evaluation processes and requirements; investigating university application procedures in South Africa; examining study visa processes and documentation requirements; identifying risks such as fraud, document errors and delays; supporting feature definition with research findings; and making sure multilingual needs are considered.
-- **Research activities completed:** Defining the problem statement from the initial research, conducting and analysing interviews with multiple participants, identifying key pain points such as language barriers and lack of guidance, researching the SAQA and university application processes, contributing to the user journey, and identifying risks affecting international students.
-- **Deliverables:** A research report with findings and insights, a validated problem statement, a user needs analysis, process research for SAQA, applications and visas, and input into the system requirements and user journey.
-- **Stakeholder contribution:** Providing research insights to support the design and development team, keeping user needs central to decisions, and giving the team accurate and relevant information.
-- **Risks and mitigation:** Limited access to participants, handled by using online communities; inaccurate information, handled by relying on official sources; and language barriers, handled by using simplified communication.
-- **Success criteria:** Clearly defined research findings, accurate and relevant insights, alignment between system features and user needs, and the overall contribution of my research to the final solution.
-
-
+### Evidence
 [Download the full Team Charters (PDF)](docs/Agile_Team_Charter.pdf)
 
 ### Reflection
@@ -91,8 +63,6 @@ I learned that a charter only has value if the team treats it as a living refere
 
 ---
 
-
----
 
 <a id="stories"></a>
 ## 2. User Stories and Tasks
