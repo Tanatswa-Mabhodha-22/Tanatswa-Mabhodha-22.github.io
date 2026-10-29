@@ -18,9 +18,9 @@
 **Module:** Project Presentation 3 (PRP370S / PRP371S / PRP372S), Diploma in ICT, CPUT
 **Project:** NavigSA, a platform that helps international students navigate SAQA evaluation, university applications, study visas and accommodation in South Africa
 **Team:** Nolwazi Zulu (Team Leader / Presenter), Tanatswa Mabhodha (Researcher), Witcha Francisco (Editor), Marc Kabala (Designer)
-**My role:** [YOUR ROLE]
+**My role:** [Researcher]
 **Project period:** 14 July to 7 October 2026
-**Links:** [Trello board](PASTE-TRELLO-LINK-HERE) | [Live NavigSA website](PASTE-VERCEL-LINK-HERE)
+**Links:** [Trello board](https://trello.com/b/Niq9BwJf/navigsa) | [Live NavigSA website](https://multilingual-student-platform-navig.vercel.app/)
 
 ### Introduction
 
