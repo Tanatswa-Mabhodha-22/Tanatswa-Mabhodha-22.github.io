@@ -13,6 +13,7 @@
 
 ---
 
+
 ## Agile Project Portfolio: NavigSA
 
 **Module:** Project Presentation 3 (PRP370S / PRP371S / PRP372S), Diploma in ICT, CPUT
@@ -27,6 +28,7 @@
 This section of my portfolio shows how I participated in running the NavigSA project using Agile and Scrum. The five artefacts below follow the order the work happened. The **Team Charter** set up who we were and how we would work. The **User Stories** turned our ideas into customer-focused work. The **Product Backlog** prioritised that work. The **Sprint Backlog** recorded how we delivered it. The **Agile Logbook** captured our daily progress and problems. Each artefact has a reflection on what it shows and what I learned.
 
 ---
+
 
 <a id="charter"></a>
 ## 1. Agile Team Charter
@@ -102,8 +104,8 @@ The team ended up with 36 user stories and 276 tasks, each with a purpose, an ou
 ### What I learned
 I learned that a user story is only useful if its tasks are small and specific enough to be finished and checked off. Vague tasks stay "in progress" forever. I also learned that writing for the user changes how you think: it moved me from asking "what can we build?" to "what does the student need?" If I did this again, I would test each story with a real student or provider before finalising it, not only with the team.
 
-
 ---
+
 
 <a id="product"></a>
 ## 3. Product Backlog
@@ -138,8 +140,6 @@ I learned that a backlog is a living document, and that keeping it accurate take
 
 ---
 
-
----
 
 <a id="sprint"></a>
 ## 4. Sprint Backlog
@@ -256,7 +256,7 @@ This project taught me that research only has value when it is turned into clear
 <a id="cv"></a>
 ## CV and Interview Video
 
-PASTE YOUR EXISTING CV LINK AND INTERVIEW VIDEO CONTENT HERE
+
 
 
 
