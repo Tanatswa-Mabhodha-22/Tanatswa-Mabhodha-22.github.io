@@ -1,5 +1,5 @@
 # Tanatswa Geraldine Mabhodha 
-**WIL Portfolio **
+**WIL Portfolio**
 
 **Assessment submission: Project Presentation 3.** My Agile portfolio is directly below. My CV and interview video from earlier are at the bottom of this page.
 
@@ -188,7 +188,7 @@ I learned that a sprint board only works when everyone keeps it up to date, and 
 ### Evidence
 **14 to 17 July 2026:** planning and presenting the business idea
 
-![Logbook 14 to 17 July](images/logbook-14-17-july.png)
+![Logbook 14 to 17 July](images/Screenshot(15).png)
 
 [PDF](docs/NavigSA_Agile_Logbook_14-17july.pdf)
 
