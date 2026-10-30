@@ -188,21 +188,27 @@ I learned that a sprint board only works when everyone keeps it up to date, and 
 ### Evidence
 **14 to 17 July 2026:** planning and presenting the business idea
 
-![Logbook 14 to 17 July](images/Screenshot(15).png)
+![Logbook 14 to 17 July](images/Screenshot(17).png)
 
 [PDF](docs/NavigSA_Agile_Logbook_14-17july.pdf)
 
 **21 to 24 July 2026:** Trello setup and drafting the Product Backlog
 
-![Logbook 21 to 24 July](images/logbook-21-24-july.png)
+![Logbook 21 to 24 July](images/Screenshot(18).png)
 
 [PDF](docs/NavigSA_Agile_Logbook_21-24_July.pdf)
 
 **28 to 31 July 2026:** prototype feedback, user stories and Sprint 1 planning
 
-![Logbook 28 to 31 July](images/logbook-28-31-july.png)
+![Logbook 28 to 31 July](images/Screenshot(19).png)
 
-[PDF](docs/Agile_logbook.pdf)
+[PDF](docs/NavigSA_Agile_Logbook_28-31_July.pdf)
+
+**4 to 7 August 2026:** creating backend using supabase
+
+![Logbook 4 to 7 August](images/Screenshot(20).png)
+
+[PDF](docs/NavigSA_Agile_Logbook_4-7_August.pdf)
 
 ### Reflection
 ### Situation
