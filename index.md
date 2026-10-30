@@ -148,7 +148,7 @@ I learned that a backlog is a living document, and that keeping it accurate take
 
 ### Evidence
 ![Trello Sprint Backlog](images/trello-sprint-backlog.png)
-![Sprint Backlog document](images/sprint-backlog-doc.png)
+![Sprint Backlog document](images/Screenshot(15).png)
 
 [Download the Sprint Backlog (PDF)](docs/NavigSA_Sprint_Backlog.pdf)
 
@@ -180,8 +180,6 @@ I learned that a sprint board only works when everyone keeps it up to date, and 
 ---
 
 
----
-
 <a id="logbook"></a>
 ## 5. Agile Logbook
 
@@ -192,7 +190,7 @@ I learned that a sprint board only works when everyone keeps it up to date, and 
 
 ![Logbook 14 to 17 July](images/logbook-14-17-july.png)
 
-[PDF](docs/NavigSA_Agile_Logbook_filled_copy.pdf)
+[PDF](docs/NavigSA_Agile_Logbook_14-17july.pdf)
 
 **21 to 24 July 2026:** Trello setup and drafting the Product Backlog
 
