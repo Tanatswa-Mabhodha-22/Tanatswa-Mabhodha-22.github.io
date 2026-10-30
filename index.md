@@ -113,7 +113,7 @@ I learned that a user story is only useful if its tasks are small and specific e
 **What it is:** The prioritised list of everything NavigSA needed. It has 15 core backlog cards (for example Community and Market Research, Business Concept Definition, Platform Design, System Architecture, Website Development and Website Testing and Launch) plus the expanded set of user stories. The team reviewed and confirmed the priority order on 30 July 2026.
 
 ### Evidence
-![Trello Product Backlog](images/Productbacklog(1).png)
+![Trello Product Backlog](images/Screenshot(11).png)
 ![Product Backlog document](images/Screenshot(14).png)
 
 [Download the Product Backlog (PDF)](docs/NavigSA_Product_Backlog.pdf)
