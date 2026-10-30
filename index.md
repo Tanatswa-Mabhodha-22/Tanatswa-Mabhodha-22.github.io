@@ -147,7 +147,7 @@ I learned that a backlog is a living document, and that keeping it accurate take
 **What it is:** A record of the sprints from 14 July to 7 October 2026 (Tuesday to Friday), each linked to a Product Backlog area with its tasks, members and status. It covers business concept, market research, UI/UX design, system architecture, backend and frontend development, testing, and the live launch on Vercel.
 
 ### Evidence
-![Trello Sprint Backlog](images/trello-sprint-backlog.png)
+![Trello Sprint Backlog](images/Screenshot(11).png)
 ![Sprint Backlog document](images/Screenshot(15).png)
 
 [Download the Sprint Backlog (PDF)](docs/NavigSA_Sprint_Backlog.pdf)
